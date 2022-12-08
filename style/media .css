@@ -1,0 +1,698 @@
+@media only screen and (max-width:1316px){
+    .container{
+        width: 1180px;
+    }
+    .btns-head button{
+        width: 100px;
+        height: 48px;
+    
+    }
+    .one-right  img{
+        width: 550px;
+        height: 590px;
+        margin-left: -290px;
+    }
+    .smalling{
+        display: none;
+    }
+    header{
+        height: 90px;
+    }
+    .one-left h3{
+        width: 588px;
+        font-size: 54px;
+        
+    }
+    .two-right h3{
+        width: 527px;
+        font-size: 44px;
+       
+    }
+    .two-right p {
+        color: #4B5563;
+        font-size: 16px;
+        width: 527px;
+        margin-bottom: 39px;
+    }
+    .two-left img{
+        width: 556px;
+        height: 580px;
+    }
+}
+
+@media only screen and (max-width:1220px){
+    .container{
+        width: 1080px;
+    }
+    .box1{
+        height: 1300px;
+        
+    }
+    .item{
+        margin-top: -20%;
+    }
+    .btns-head button{
+        width: 95px;
+        height: 47px;
+    
+    }
+    .one-right  img{
+        width: 450px;
+        height: 510px;
+        margin-left: -290px;
+    }
+    header{
+        height: 80px;
+    }
+    .item h3{
+        width: 671px;
+        font-size: 45px;
+    }
+    .item p {
+        width: 700px;
+        font-size: 17px;
+       
+    }
+    .two-right h3{
+        width: 517px;
+        font-size: 42px;
+       
+    }
+    .two-right p {
+        font-size: 15px;
+        width: 517px;
+        margin-bottom: 39px;
+    }
+    .two-left img{
+        width: 546px;
+        height: 560px;
+    }
+    .sm-right img{
+        width: 120px;
+    }
+  .alone{
+    margin-top: 130px;
+  }
+}
+
+@media only screen and (max-width:1117px){
+    .container{
+        width: 980px;
+    }
+    .btns-head button{
+        width: 90px;
+        height: 46px;
+    
+    }
+    .one-right  img{
+        width: 400px;
+        height: 470px;
+        margin-left: -325px;
+    }
+    header{
+        height: 80px;
+    }
+    .one-left h3{
+        width: 558px;
+        font-size: 52px;
+        
+    }
+    .one-left p {
+        width: 538px;
+    }
+    .alone{
+        margin-top: 150px;
+      }
+      .box1{
+        height: 1200px;
+        
+    }
+    .item{
+        height: 400px;
+    }
+    .btn1{
+        width: 75px;
+        height: 27px;
+        font-size: 12px;
+       
+    }
+    .item h3{
+       
+        width: 671px;
+        font-size: 45px;
+       text-align: center;
+    }
+    .item p {
+        width: 650px;
+        font-size: 16px;
+    }
+    .btn2{
+        width: 107px;
+        height: 45px;
+       
+    }
+    .two-right h3{
+        width: 500px;
+        font-size: 40px;
+       
+    }
+    .two-right p {
+        width: 500px;
+    }
+    .two-left img{
+        width: 446px;
+        height: 460px;
+    }
+}
+@media only screen and (max-width:1014px){
+    .container{
+        width: 880px;
+    }
+    .hrefs a{
+        font-size: 14px;
+    }
+    .btns-head a{
+        font-size: 14px;
+    }
+    .btns-head button{
+        width: 80px;
+        height: 40px;
+        font-size: 14px;
+    
+    }
+    .one-left h3{
+        width: 508px;
+        font-size: 48px;
+        margin-top: 40px;
+        margin-bottom: 10px;
+        
+    }
+    .one-left p {
+        width: 508px;
+    }
+    .one-right  img{
+        width: 350px;
+        height: 430px;
+        
+    }
+    .alone{
+        font-size: 16px;
+    }
+    .box1{
+        height: 1100px;
+    }
+    .item{
+        height: 380px;
+    }
+    .btn1{
+        width: 70px;
+        height: 25px;
+        font-size: 12px;
+       
+    }
+    .item h3{
+        width: 651px;
+        font-size: 43px;
+    }
+    .item p {
+        width: 640px;
+        font-size: 16px;
+    }
+    .btn2{
+        width: 95px;
+        height: 40px;
+       
+    }
+    .two-right h3{
+        width: 450px;
+        font-size: 38px;
+       
+    }
+    .two-right p {
+        width: 450px;
+    }
+    .two-left img{
+        width: 406px;
+        height: 420px;
+    }
+}
+
+@media only screen and (max-width:917px){
+    .container{
+        width: 780px;
+    }
+    .btns-head button{
+        width:70px;
+        height: 38px;
+        font-size: 12px;
+    
+    }
+    header{
+        height: 70px;
+    }
+    nav{
+        padding-top: 20px;
+    }
+    .one-left h3{
+        width: 408px;
+        font-size: 36px;
+        margin-top: 30px;
+        margin-bottom: 10px;
+        line-height: 50px;
+        
+    }
+    .one-left p {
+        width: 408px;
+        font-size: 16px;
+    }
+    .one-right  img{
+        width: 320px;
+        height: 400px;
+        margin-left: -120px;
+       
+
+}
+.one-left button:nth-child(3){
+    width: 132px;
+    height: 40px;
+    
+    
+    }
+    .one-left button:nth-child(4){
+        height:40px;
+        
+    }
+    .one{
+        padding-top: 80px;
+    }
+    .box1{
+        height: 1000px;
+    }
+    .item{
+        height: 360px;
+    }
+    .btn1{
+        width: 60px;
+        height: 20px;
+        font-size: 12px;
+       
+    }
+    .item h3{
+        width: 601px;
+        font-size: 40px;
+        margin-bottom: 10px;
+    }
+    .item p {
+        width: 600px;
+        font-size: 16px;
+        margin-bottom: 25px;
+    }
+    .btn2{
+        width: 90px;
+        height: 38px;
+       
+    }
+    .two-right h3{
+        width: 400px;
+        font-size: 35px;
+       
+    }
+    .two-right p {
+        width: 400px;
+    }
+    .two-left img{
+        width: 360px;
+        height: 400px;
+    }
+    .btnl{
+        width: 125px;
+        height: 48px;
+    }
+    
+    .btnr{
+        width: 125px;
+        height: 48px;
+        
+    }
+}
+@media only screen and (max-width:816px){
+    .container{
+        width: 680px;
+    }
+    .hrefs{
+        display: none;
+    }
+    nav{
+        justify-content: space-between;
+    }
+    .brg-menu{
+        display: block;
+        
+    }
+    .btns-head{
+        margin-left: 0;
+    }
+    header{
+        height: 60px;
+    }
+    nav{
+        padding-top: 10px;
+    }
+    .one-left h3{
+        width: 338px;
+        font-size: 34px;
+        margin-top: 20px;
+        line-height: 43px;
+        
+    }
+    .one-left p {
+        width: 338px;
+        font-size: 15px;
+    }
+    .one-right  img{
+        width: 270px;
+        height: 350px;
+        margin-left: -120px;
+       
+
+}
+.one-left button:nth-child(3){
+    width: 122px;
+    height: 38px;
+    font-size: 13px;
+    
+    
+    }
+    .one-left button:nth-child(4){
+        height:38px;
+        font-size: 13px;
+    }
+    .one{
+        padding-top: 80px;
+    }
+    .one-left button img{
+        width: 20px;
+
+    }
+    .sm-right img{
+        width: 100px;
+    }
+    .sm-left img{
+        width: 140px;
+        height: 40px;
+    }
+    .sm-right p{
+        font-size: 12px;
+    }
+    .alone{
+        font-size: 14px;
+        margin-top: 10px;
+    }
+    .box1{
+        height: 900px;
+    }
+.item{
+    margin-top: -27%;
+    height: 340px;
+}
+.btn1{
+    width: 60px;
+    height: 20px;
+    font-size: 12px;
+    margin-top: 60px;
+   
+}
+.item h3{
+    width: 501px;
+    font-size: 34px;
+    margin-bottom: 10px;
+}
+.item p {
+    width: 500px;
+    font-size: 15px;
+    margin-bottom: 25px;
+}
+.btn2{
+    width: 85px;
+    height: 36px;
+   
+}
+.two-right h3{
+    width: 300px;
+    font-size: 32px;
+   
+}
+.two-right p {
+    width: 300px;
+}
+.two-left img{
+    width: 330px;
+    height: 370px;
+}
+.btnl{
+    width: 115px;
+    height: 45px;
+}
+
+.btnr{
+    width: 115px;
+    height: 45px;
+    
+}
+}
+@media only screen and (max-width:710px){
+    .container{
+        width: 580px;
+    }
+    .one-left h3{
+        width: 308px;
+        font-size: 30px;
+        
+        
+    }
+    .one-left p {
+        width: 308px;
+        font-size: 14px;
+    }
+    .one-right  img{
+        width: 230px;
+        height: 300px;
+        margin-left: -120px;
+       
+
+}
+.one-left button:nth-child(3){
+    width: 102px;
+    height: 34px;
+    font-size: 12px;
+    margin-bottom: 20px;
+    
+    
+    }
+    .one-left button:nth-child(4){
+        height:34px;
+        font-size: 12px;
+    }
+    .box1{
+        height: 800px;
+    }
+    .item{
+        margin-top: -29%;
+        height: 300px;
+    }
+    .btn1{
+        width: 50px;
+        height: 20px;
+        font-size: 10px;
+        margin-top: 60px;
+       
+    }
+    .item h3{
+        width: 401px;
+        font-size: 28px;
+        margin-bottom: 10px;
+    }
+    .item p {
+        width: 400px;
+        font-size: 13px;
+        margin-bottom: 25px;
+    }
+    .btn2{
+        width: 75px;
+        height: 32px;
+        font-size: 13px;
+       
+    }
+    .two-right h3{
+        width: 250px;
+        font-size: 26px;
+       
+    }
+    .two-right p {
+        width: 250px;
+    }
+    .two-left img{
+        width: 300px;
+        height: 370px;
+    }
+    .btnl{
+        width: 115px;
+        height: 45px;
+    }
+    
+    .btnr{
+        width: 115px;
+        height: 45px;
+        
+    }
+
+}
+@media only screen and (max-width:606px){
+    .container{
+        width: 480px;
+    }
+    .one{
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: center;
+        
+    }
+    .box1{
+        height: 1100px;
+    }
+    .one-left h3{
+        width: 288px;
+        font-size: 26px;
+        text-align: center;
+      
+        
+        
+        
+    }
+    .one-left p {
+        width: 288px;
+        font-size: 14px;
+        
+        text-align: center;
+    }
+    .one-right  img{
+        width: 300px;
+        height: 320px;
+        margin-left: 0;
+       
+       
+
+}
+.one-left button:nth-child(3){
+    width: 102px;
+    height: 34px;
+    font-size: 12px;
+    margin-bottom: 20px;
+    
+    
+    
+    
+    
+    }
+    .sm-right img{
+        width: 100px;
+       
+        
+    }
+    .sm-right{
+        width: 100px;
+    }
+    .sm-left img{
+        width: 140px;
+        height: 40px;
+         
+    }
+    .sm-right p{
+                font-size: 12px;
+            
+                width: fit-content;
+    }
+    .two-right h3{
+        width: 300px;
+        font-size: 26px;
+       
+    }
+    .two-right p {
+        width: 300px;
+    }
+    .two-left img{
+        width: 350px;
+        height: 370px;
+        margin-bottom: 10px;
+    }
+    .btnl{
+        width: 115px;
+        height: 45px;
+    }
+    
+    .btnr{
+        width: 115px;
+        height: 45px;
+        
+    }
+    .two{
+        flex-direction: column;
+    }
+    .btns-head img{
+        width: 10px;
+    }
+    .btns-head a{
+        font-size: 12px;
+    }
+    .btns-head button{
+        width: 50px;
+        height: 20px;
+    }
+   nav{
+    justify-content: space-around;
+   }
+   
+}
+@media only screen and (max-width:500px){
+    .container{
+        width: 380px;
+    }
+    .item{
+       
+        height: 250px;
+    }
+   
+    .item h3{
+        width: 301px;
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .item p {
+        width: 300px;
+        font-size: 12px;
+        margin-bottom: 5px;
+    }
+    .btn2{
+        width: 55px;
+        height: 22px;
+        font-size: 10px;
+       margin-top: 10px;
+    }
+    .btn1{
+        margin-top: 30px;
+    }
+}
+@media only screen and (max-width:430px){
+    .container{
+        width: 320px;
+    }
+    .brg-block{
+        width: 332px;
+    }
+    .two-left img{
+        width: 300px;
+        height: 330px;
+        margin-bottom: 10px;
+    }
+
+}
